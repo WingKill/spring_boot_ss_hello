@@ -12,7 +12,7 @@
    <groupId>edu.sejong</groupId>
    <artifactId>ex</artifactId>
    <version>0.0.1-SNAPSHOT</version>
-   <name>spring_boot_hjs_example</name>
+   <name>spring_boot_ss_hello</name>
    <description>spring_boot example</description>
    <properties>
       <java.version>11</java.version>
